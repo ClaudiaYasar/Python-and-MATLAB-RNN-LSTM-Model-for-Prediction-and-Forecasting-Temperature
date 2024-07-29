@@ -7,7 +7,7 @@ This repository contains the curriculum materials used for the Intelligent Contr
 This work implements RNN and LSTM models using Python and MATLAB for temperature forecasting, covering setup, data preprocessing, model training, and evaluation with metrics like MAE and RMSE. It employs time series analysis and statistical assessment techniques, providing visualizations to demonstrate model accuracy and practical application.
 
 
-<img src="RNN_LSTM.jpg" width="800">
+<img src="RNN_LSTM.jpg" width="900">
 
 
 # Acknowledgements
